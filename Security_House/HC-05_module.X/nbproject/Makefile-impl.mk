@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Bluetooth
+PROJECTNAME=HC-05_module.X
 
 # Active Configuration
 DEFAULTCONF=default
